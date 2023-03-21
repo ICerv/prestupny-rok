@@ -1,0 +1,2 @@
+# prestupny-rok
+Cvičení: Podmínky
